@@ -104526,7 +104526,7 @@ j=$.A()
 h=j.gar()
 g=j.a
 g===$&&A.b()
-j=A.d1(b2,10*Math.min(h/g.a,j.gbj()),b2)
+j=A.d1(b2,20*Math.min(h/g.a,j.gbj()),b2)
 m=J.cW(5,p)
 for(i=0;i<5;++i){p=$.b51[i]
 h=p[0]
