@@ -29002,7 +29002,7 @@ j.c.L(0,new A.Eg(j,p,0,h,n,A.a([],t.s),null,null,0))}j=$.F().gaR()
 h=$.F().gaR()
 g=A
 s=3
-return A.N($.Mm().kg(0,"fonts/ChromoxomePro-ExtraLight.ttf"),$async$a5w)
+return A.N($.Mm().kg(0,"assets/fonts/ChromoxomePro-ExtraLight.ttf"),$async$a5w)
 case 3:m=new g.Wq(a3,null)
 l=A.aL7(m,m,m)
 h=A.aX2(new A.aAK(b,a0,f,new A.ahU(),d,e*0.5,new A.ahS(d,new A.d8()),m,new A.ahT(d,new A.d8()),new A.ahQ(d,new A.d8()),new A.ahR(new A.d8(),10*j,8*h)),new A.aAL(),B.b2,A.aXo(new A.aAM(!1),!1,null,null,B.kf.as8(20,20),null,l))
