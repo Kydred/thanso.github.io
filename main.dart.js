@@ -28509,7 +28509,7 @@ case 2:q=window.location.host
 q.toString
 if(!B.e.D(q+J.b4(window.location.pathname),"localhost:")){q=window.location.host
 q.toString
-p=B.e.D(q+J.b4(window.location.pathname),"freethanso.github.io")}else p=!0
+p=B.e.D(q+J.b4(window.location.pathname),"kydred.github.io")}else p=!0
 A.jO(p?"NumerologyByCao":"q(*_*)p")
 if(p){if($.au==null)A.WU()
 q=$.au
